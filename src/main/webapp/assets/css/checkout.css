@@ -1,0 +1,52 @@
+.checkout-container {
+
+    width: 100%;
+    min-height: 80vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkout-card {
+
+    background-color: white;
+
+    padding: 50px;
+
+    border-radius: 20px;
+
+    text-align: center;
+
+    box-shadow:
+        0 4px 12px rgba(0,0,0,0.08);
+}
+
+.checkout-card h1 {
+
+    margin-bottom: 20px;
+
+    font-size: 40px;
+}
+
+.checkout-card p {
+
+    margin-bottom: 30px;
+
+    font-size: 18px;
+}
+
+.shop-btn {
+
+    display: inline-block;
+
+    padding: 12px 25px;
+
+    background-color: black;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 10px;
+}
